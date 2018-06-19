@@ -1,0 +1,52 @@
+﻿body {
+    text-align: center;
+    background: url(background.jpg);
+}
+
+form {
+    margin: auto;
+    width: 50%;
+    border: 10px solid red;
+}
+
+
+h1 {
+    font-family: "Playfair Display SC", sans-serif;
+    font-size: 200px;
+    margin: 75px auto;
+    margin-bottom: 50px;
+    color: red;
+}
+
+label {
+    color: white;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+h2{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 40px auto;
+}
+
+button {
+    margin-bottom: 40px;
+}
+
+table {
+    margin: auto;
+    background-color: black;
+}
+
+thead {
+    background-color: #FFA868;
+}
+
+td {
+    background-color: #58B9D3;
+    text-align: center;
+}
